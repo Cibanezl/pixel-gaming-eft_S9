@@ -3,8 +3,8 @@
 Aplicación web interactiva desarrollada para la asignatura **Desarrollo Frontend I (PFY2201)** en **Duoc UC**.
 
 ## 🚀 Enlaces del Proyecto
-- **Repositorio en GitHub:** [https://github.com/Cibanezl/pixel-gaming-eft](https://github.com/Cibanezl/pixel-gaming-eft_S9)
-- **Demo en Vivo (GitHub Pages):** [https://cibanezl.github.io/pixel-gaming-eft/](https://cibanezl.github.io/pixel-gaming-eft_S9/)
+- **Repositorio en GitHub:** https://github.com/Cibanezl/pixel-gaming-eft_S9
+- **Demo en Vivo (GitHub Pages):** https://cibanezl.github.io/pixel-gaming-eft_S9/
 
 ---
 
@@ -29,7 +29,7 @@ Aplicación web interactiva desarrollada para la asignatura **Desarrollo Fronten
 
 ```bash
 # 1. Clonar el repositorio
-git clone [https://github.com/Cibanezl/pixel-gaming-eft.git](https://github.com/Cibanezl/pixel-gaming-eft_S9.git)
+git clone [https://github.com/Cibanezl/pixel-gaming-eft_S9.git](https://github.com/Cibanezl/pixel-gaming-eft_S9.git)
 
 # 2. Entrar al proyecto
 cd pixel-gaming-eft
