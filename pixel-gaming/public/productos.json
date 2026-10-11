@@ -15,14 +15,14 @@
     "descripcion": "Simulador de carreras de mundo abierto en México.",
     "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg"
   },
-  {
+ {
     "id": 3,
     "nombre": "StarCraft II",
     "precio": 15990,
     "categoria": "Estrategia",
     "descripcion": "Clásico de estrategia espacial en tiempo real.",
-    "imagen": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=800&q=80"
-  },
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/2/20/StarCraft_II_-_Box_Art.jpg"
+  }, 
   {
     "id": 4,
     "nombre": "Grand Theft Auto V",
