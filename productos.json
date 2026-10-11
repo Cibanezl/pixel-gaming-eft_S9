@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cyberpunk 2077",
+    "precio": 34990,
+    "categoria": "RPG",
+    "descripcion": "Juego de acción y RPG futurista en Night City.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Forza Horizon 5",
+    "precio": 29990,
+    "categoria": "Deportes",
+    "descripcion": "Simulador de carreras de mundo abierto en México.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "StarCraft II",
+    "precio": 15990,
+    "categoria": "Estrategia",
+    "descripcion": "Clásico de estrategia espacial en tiempo real.",
+    "imagen": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "nombre": "Grand Theft Auto V",
+    "precio": 19990,
+    "categoria": "Acción",
+    "descripcion": "Acción y aventura en un mundo abierto masivo.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg"
+  }
+]
